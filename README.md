@@ -1,6 +1,10 @@
 # jupyterHpc
 
-This is a tutorial on how to run jupter on hpc
+This is a tutorial on how to run jupter on hpc.
+
+<p align="center">
+  <img src="ssrc/logo.png" alt="jupyterHpc" width="400" >
+</p>
 
 # Introduction
 
