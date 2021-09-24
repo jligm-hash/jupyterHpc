@@ -26,4 +26,6 @@ You need to read this tutorial first.
 
 # References/Useful links
 
-Google.com:)
+https://jupyter.org/
+
+https://slurm.schedmd.com/documentation.html
